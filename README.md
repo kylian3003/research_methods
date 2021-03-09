@@ -7,6 +7,9 @@ How to use:
 1. Run the shell script by typing 'bash count_de.sh' into your terminal
 2. The program will ask you to enter the file name, you can enter any text file
 3. The program will give you the results
+(4.) If you wish to count the occurrence of a different word, you can edit the code
+in line 17. Simply replace 'de' with any word you wish to use.
+
 
 Text file (data):
 This the text file is directly taken from the original wikipedia page,
