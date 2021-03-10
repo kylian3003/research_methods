@@ -12,7 +12,7 @@ in line 17. Simply replace 'de' with any word you wish to use.
 
 
 Text file (data):
-This the text file is directly taken from the original wikipedia page,
-it has all the text from the page excluding the references, table of contents and links.
+The text used for this was found by editing the wikitext, not source text.
+Then ctrl + A and copy and paste it into a text file.
 
 In the shell script you can find additional comments about what each part of the code does.
